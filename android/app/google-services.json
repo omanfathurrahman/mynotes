@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977729620112",
+    "project_id": "mynotes-omanfathurrahman69",
+    "storage_bucket": "mynotes-omanfathurrahman69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977729620112:android:bbd3195355e7adc4183015",
+        "android_client_info": {
+          "package_name": "com.learnflutter.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977729620112-9seprm85457467kfhp5kkltava7ed4oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yvQAYnlJiJwzrnLi_GM27EfKx7OUgvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977729620112-9seprm85457467kfhp5kkltava7ed4oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
